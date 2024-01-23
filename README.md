@@ -1,4 +1,4 @@
-# MIAMI-summer-research: Deeping Retinal Image Analysis
+# MIAMI-summer-research: Deep Retinal Image Analysis
 The website of our dataset: https://github.com/nkicsl/OIA.
 GAA means gender & age.
 Non-gaa means with gender & age.
